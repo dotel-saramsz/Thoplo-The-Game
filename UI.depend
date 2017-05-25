@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1453310650 source:d:\education\c and c++\ui\uiresource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1453310650 d:\education\c and c++\ui\resource.h
+
+1453629022 source:d:\education\c and c++\ui\main.c
+	<windows.h>
+	<winbase.h>
+	<stdio.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"resource.h"
+
+1453310650 source:d:\ui\uiresource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1453310650 d:\ui\resource.h
+
+1457031239 source:d:\ui\main.c
+	<windows.h>
+	<winbase.h>
+	<stdio.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"resource.h"
+
+1457937130 source:d:\projects\thoplo game\main.c
+	<windows.h>
+	<winbase.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"resource.h"
+
+1457622747 d:\projects\thoplo game\resource.h
+
+1457622983 source:d:\projects\thoplo game\uiresource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1458729331 source:d:\projects\1st sem\thoplo game\main.c
+	<windows.h>
+	<winbase.h>
+	<commctrl.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"resource.h"
+
+1458145903 d:\projects\1st sem\thoplo game\resource.h
+
+1458145903 source:d:\projects\1st sem\thoplo game\uiresource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1457619649 source:d:\saksaramz\education\saramsha\thoplo game\main.c
+	<windows.h>
+	<winbase.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"resource.h"
+
+1457376288 d:\saksaramz\education\saramsha\thoplo game\resource.h
+
+1457538194 source:d:\saksaramz\education\saramsha\thoplo game\uiresource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1457622841 source:d:\thoplo game\main.c
+	<windows.h>
+	<winbase.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"resource.h"
+
+1457622747 d:\thoplo game\resource.h
+
+1457622747 source:d:\thoplo game\uiresource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
